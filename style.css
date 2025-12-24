@@ -205,6 +205,7 @@ body{
   line-height: 1;
   opacity: .9;
   animation: bounce 1.2s infinite ease-in-out;
+  color: white;
 }
 
 @keyframes bounce{
